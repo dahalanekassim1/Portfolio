@@ -1,6 +1,6 @@
 # 💻 Portfolio | Réalisé en 1ère année
 
-Un site Web simple qui présente mes informations en tant qu'un Ingénieur Logiciel en formation en informatique.
+Un site Web simple qui présente mes informations en tant qu'un Ingénieur Logiciel en formation.
 
 <img width="1733" alt="Aperçu du Portfolio" src="https://github.com/user-attachments/assets/f28fd61b-facb-48a6-ac5e-5d3d1ce7fe44" />
 
