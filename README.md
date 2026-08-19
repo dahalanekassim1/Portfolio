@@ -24,5 +24,5 @@ Un site Web simple qui présente mes informations en tant qu'étudiant en inform
 
 1. **Cloner le dépôt :**
    ```bash
-   git clone [https://github.com/dahalanekassim1/Portfolio.git](https://github.com/dahalanekassim1/Portfolio.git)
+   git clone https://github.com/dahalanekassim1/Portfolio.git
   
