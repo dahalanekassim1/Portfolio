@@ -25,6 +25,9 @@ function afficherMessage() {
         alert("Veuillez saisir votre email correctement");
     }
     else if (msg === "") {
-        alert("Veuillez décrire votre souhait");
+        alert("Veuillez rédiger votre message");
+    }
+    else {
+        alert("Bonjour" + " " + nom + " " + prenom + " " + "Votre message est envoyé avec succée");
     }
 }
